@@ -129,10 +129,12 @@ header {
 @media screen and (max-width: 767px) {
   body {
     overflow: hidden;
+    overflow-y:scroll;
   }
 
 header{
   position: fixed;
+  
 }
 
   .burger {
